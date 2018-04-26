@@ -31,7 +31,7 @@ function Pressreleases(props) {
   return (
     <Layout>
       <Head>
-        <title key="title">{t('common:meta.pressreleases.title', { defaultValue: 'Pressreleases - VergeCurrency.com' })}</title>
+        <title key="title">{t('common:meta.pressreleases.title', { defaultValue: 'Press Releases - VergeCurrency.com' })}</title>
       </Head>
       <div className="pressreleases press">
         <div className="ribbon ribbon--pressreleases">
